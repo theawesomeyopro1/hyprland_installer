@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 sudo pacman -Syu git 
 git clone https://aur.archlinux.org/yay.git
